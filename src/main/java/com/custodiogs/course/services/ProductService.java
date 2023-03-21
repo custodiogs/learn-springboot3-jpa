@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.custodiogs.course.entities.Product;
-import com.custodiogs.course.entities.User;
 import com.custodiogs.course.repositories.ProductRepository;
 
 @Service
